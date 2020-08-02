@@ -1,2 +1,2 @@
 # CheeseShop
-A Java program that follow a sequence of events for setting up a shop and lets the customer to purchase items. 
+A Java program that follows a sequence of events for setting up a cheese shop and allows the customer to purchase various types of cheeses. 
